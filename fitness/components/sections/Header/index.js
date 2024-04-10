@@ -34,6 +34,9 @@ const Header = ({ isLoggedIn }) => {
                                         <li className={checkActive('/')}>
                                             <Link href="/">Home</Link>
                                         </li>
+                                        <li className={checkActive('/terms')}>
+                                            <Link href="/terms">Term</Link>
+                                        </li>
                                         <li className={checkActive('/about')}>
                                             <Link href="#">About us</Link>
                                         </li>

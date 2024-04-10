@@ -1,3 +1,4 @@
+import '@/styles/css/globals.css';
 import '@/styles/css/bootstrap.min.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import '@/styles/css/settings.css';
